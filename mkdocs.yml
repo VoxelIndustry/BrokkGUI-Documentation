@@ -1,4 +1,7 @@
 site_name: My Docs
 repo_url: https://github.com/VoxelIndustry/BrokkGUI
 pages:
-- ['index.md', 'Introduction']
+- Home: 'index.md
+
+theme:
+  name: readthedocs
