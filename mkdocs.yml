@@ -3,5 +3,4 @@ repo_url: https://github.com/VoxelIndustry/BrokkGUI
 pages:
 - Home: 'index.md
 
-theme:
-  name: readthedocs
+theme: readthedocs
